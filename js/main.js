@@ -1,4 +1,4 @@
-var url = "https://script.google.com/macros/s/AKfycbysuhhIjoSWS2ApPZsQVqBmDcoWGK1CsxuwSzu6mpAZIbRk-mU6MgIF/exec";
+var url = "https://script.google.com/macros/s/AKfycbxDBnzpV1Xb0SsulF9w_8Fso99WpaslQ60WOpT1mSSndQOmxBu5vkp6qE_tsi41o4SA/exec";
 (function ($) {
   "use strict";
   $.ajaxSetup({
